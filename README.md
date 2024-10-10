@@ -59,3 +59,18 @@ Depending on the time, the communication feature might be different.
 **Option 1** - If time allow, I would like to implement a chat feature where users can communicate within the app
 
 **Option 2** - If we don't implement login, then users are going to communicate via email which is currently what jpcanada.com is doing as well
+
+## Data resources
+
+### **Network**
+### List of posts
+The app will retrieve a list of `Post` from remote and display on the home page.
+
+### Creation
+When users create posts, it will be store in a server.
+
+### User information
+The app will retrieve user information from remote.
+
+### **Local**
+Currently no plan on storing any information on devices
